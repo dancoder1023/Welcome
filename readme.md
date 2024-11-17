@@ -10,11 +10,6 @@ Hi there! I'm **dancoder1023**, a passionate coder who loves experimenting with 
 #### 🌟 [Windows 12 Concept](https://github.com/dancoder1023/windows12concept)
 A concept imagining the next evolution of Windows design and functionality. This repository serves as a playground for futuristic ideas around the Windows experience.
 
-#### 💾 [Windows Downloader](https://github.com/dancoder1023/WindowsDownloader)
-A handy tool built with C# to streamline downloads for Windows users. Free, lightweight, and ad-free—just how a utility should be!
-
-#### 📜 [About Me](https://github.com/dancoder1023/about-me)
-A mix of personal insights and experimentation. Occasionally, you’ll find tools for testing and other fascinating resources here!
 
 ---
 
